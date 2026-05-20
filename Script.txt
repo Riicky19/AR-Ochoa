@@ -1,0 +1,2 @@
+Buenas tardes, esta es una prueba de texto para el archivo Scrip.txt
+Se realiza la adición de dos lineas de texto correspondientes. Gracias
